@@ -18,11 +18,11 @@ export default function Index() {
 
                 </div>
                 <p>
-                    I am an international student from India (living in Dubai) studying Economics and Data Science at Claremont McKenna College. <br/>
-                    On campus, I work as a Research Assistant for Salvatori Institute where I research pressing issues facing society and engage with Speakers who talk about Abortion policies or demagoguery in current politics.
-                    I am also a Career Services mentor and Founder and President of Claremont Culinary Club <br/>
-                    I am passionate about tech related fields like Product Management, Artificial Intelligence, Machine Learning and Software Engineering <br/>
-                    In my free time, I enjoy <a href ="https://www.instagram.com/claremontculinaryclub/">cooking and baking </a>
+                I am a Sophomore at CMC studying Economics and Data Science. <br/>
+                In the past, I have led a team in which we designed a mini wordle and a stats project that studied the factors affecting Professor ratings and won. <br/>
+                On campus, I am a Salvatori Center Research Assistant wherein I am leading a research team in which we are studying the reentry programs for prisoners. I am also a Career Service mentor. In this role, I help students build their resumes, cover letters, and help the career coaches with administrative tasks.<br/>
+                I am passionate about tech and I am enjoying a web development club where I have been creating my personal website and Project AI workshops where I am learning the fundamentals of AI and Machine Learning.
+                <br/>I am passionate about the technology industry and I am looking for more experience in product management, SWE, and data science-related fields like Artificial Intelligence or Machine Learning. <br/>One fun fact about me is that I enjoy cooking and baking so I founded a <a href ="https://www.instagram.com/claremontculinaryclub/">Culinary Club</a> on campus in which we have biweekly meetings where we cook or bake savory/sweet food.
                 </p>
 
                 <hr/>
