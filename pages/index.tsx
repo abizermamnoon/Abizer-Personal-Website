@@ -21,7 +21,7 @@ export default function Index() {
                     I am an international student from India (living in Dubai) studying Economics and Data Science at Claremont McKenna College. <br/>
                     On campus, I work as a Research Assistant for Salvatori Institute where I research pressing issues facing society and engage with Speakers who talk about Abortion policies or demagoguery in current politics.
                     I am also a Career Services mentor and Founder and President of Claremont Culinary Club <br/>
-                    I am passionate about Data Science related fields like Product Management, Artificial Intelligence, Machine Learning and Software Engineering <br/>
+                    I am passionate about tech related fields like Product Management, Artificial Intelligence, Machine Learning and Software Engineering <br/>
                     In my free time, I enjoy <a href ="https://www.instagram.com/claremontculinaryclub/">cooking and baking </a>
                 </p>
 
