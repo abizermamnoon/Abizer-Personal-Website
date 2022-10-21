@@ -5,9 +5,9 @@ export default function Index() {
         <>
             <Head>
                 <title>Abizer's Website</title>
-                <meta name = "description" content = "Welcoe to my Portfolio" />
+                <meta name = "description" content = "Welcome to my Portfolio" />
             </Head>
-            
+
             <div id = "navbar">
                 <span>Abizer Mamnoon</span>
             </div>
