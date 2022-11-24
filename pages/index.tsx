@@ -9,12 +9,8 @@ export default function Index() {
     const [open, setOpen] = useState(false);
     const[tab,setTab] = useState("about");
     const [search, setSearch] = useState("");
-    const filteredProjects = projects.filter( d => d.title.toLowerCase().includes(search.toLowerCase));
+    
     const myName = "Abizer"
-    
-    
-    
-
     return (
         <>
             <Head>
