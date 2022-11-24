@@ -1,4 +1,11 @@
-export default function Project(props){
+export default function Project(props: {
+    title: string,
+    description: string,
+    link: string,
+    image: string,
+    alt: string,
+
+}) {
     return(
         <p>
             <a href = {props.link}  className = "project-wrapper">
