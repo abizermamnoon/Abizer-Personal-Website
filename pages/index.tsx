@@ -61,13 +61,16 @@ export default function Index() {
                 ) : (tab === "projects") ? (
                     <p>
                        
-                        {projects.map(d => (
+                        {projects.map((project, index) => (
                             <Project
-                                title = {d.title}
-                                description = {d.description}
-                                link = {d.link}
-                                />
-                            ))}  
+                                key={index}
+                                title={project.title}
+                                description={project.description}
+                                link={project.link}
+                                image={project.image} // Include this if your Project component uses it
+                                alt={project.alt}     // Include this if your Project component uses it
+                            />
+                        ))}
                             
                     </p>
                 ) : (
