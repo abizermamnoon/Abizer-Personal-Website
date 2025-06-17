@@ -1,6 +1,6 @@
 export default function Project(props: {
     title: string,
-    description: string,
+    description: React.ReactNode;
     link: string,
     image: string,
     alt: string,
